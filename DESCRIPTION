@@ -1,0 +1,23 @@
+Package: pb210dating
+Type: Package
+Title: Pb-210 Dating of Sediment Cores
+Version: 1.0.1
+Date: 2026-06-30
+Encoding: UTF-8
+Authors@R: c(
+    person(given="Joan-Albert", family="Sanchez-Cabeza", 
+           email = "jasanchez@cmarl.unam.mx",
+           role = c("aut", "cre", "cph"),
+           comment = "Universidad Nacional Autonoma de Mexico"),
+    person(given="Ana Carolina", family="Ruiz-Fernandez", 
+           role = "aut",
+           comment = "Universidad Nacional Autonoma de Mexico"),
+    person(given="David", family="Morina Soler", 
+           role = "aut",
+           comment = "Universitat Autònoma de Barcelona")
+  )
+Description: Provides a comprehensive toolset to date sediment cores using classical Pb-210 models.
+Depends: R (>= 4.3)
+Imports: lubridate
+License: GPL (>= 2)
+RoxygenNote: 7.3.3
