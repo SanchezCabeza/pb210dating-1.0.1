@@ -52,7 +52,7 @@ After installing the package, run the test from the root directory of this repos
 
 The script runs the complete Pb-210 dating workflow using the package-provided TEHUA-II example dataset.
 
-The quick test uses 10 Monte Carlo simulations for both the CF and CFCS models so that it can be executed rapidly. For scientific applications, substantially larger numbers of Monte Carlo simulations should be used.
+The quick test uses 100 Monte Carlo simulations for both the CF and CFCS models so that it can be executed rapidly. For scientific applications, substantially larger numbers of Monte Carlo simulations should be used.
 
 ## Example data
 
